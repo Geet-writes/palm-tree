@@ -1,0 +1,1 @@
+This example renders content from a txt file created inside _includes folder.
