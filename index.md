@@ -5,9 +5,6 @@ layout: demo_template
 link: topics/new
 ---
 
-{% include exampleFor_includes.txt%}
-{% include puppy.jpg%}
-
 #  Conserve Water, Conserve Life!
 
 ## _Rainwater Harvesting for Homes_
