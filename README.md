@@ -1,4 +1,4 @@
-# musical-tribble
+# Palm-tree
 ``` Docs as code trial repo ```
 
 ## Purpose of the repo
